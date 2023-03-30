@@ -1,0 +1,14 @@
+tolerance 2.0
+filetype pdb
+output li_box_900.pdb
+
+structure peo.pdb
+  number 900
+  inside box 0 0 0 50 50 50
+end structure
+
+structure litfsi.pdb
+  number 300
+  inside box 0 0 0 50 50 50
+end structure 
+
