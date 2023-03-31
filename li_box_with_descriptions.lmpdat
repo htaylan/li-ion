@@ -27,7 +27,7 @@ Masses
 
 
 Atoms
-## Atom Index No, Molecule Index No, Atom No (e.g. 1 is C, 6 is 0), X-Y-Z axis
+## Atom Index No, Molecule Index No, Atomic Charges, Atom No (e.g. 1 is C, 6 is 0), X-Y-Z axis
 1       1    1    0.00000   21.88900   43.66300   48.49300 #   C
 2       1    6   -0.82000   22.87300   43.88100   48.85100 #   O
 3       1    3    0.41000   21.56100   42.72700   48.89700 #   H
